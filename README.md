@@ -9,6 +9,7 @@ ONE MORE THING... MAKE SURE you send a cookie with the value mission=yes
 What? You haven't posted it yet??? Get Coding!!! 
 
 +++ Solution:
+
 See 1_prog.py
 
 
@@ -18,13 +19,16 @@ Objective:
 You have 1 second to multiply this random number x by x and submit it
 
 +++ Solution:
+
 Right-click -> View Page Source Code
+
 See 2_prog.py
 
 
 Enigma Group :: Programming 3
 
 Welcome. Your objective is to analyse the following [random] image, and report back the color of the image.
+
 Image: http://challenges.enigmagroup.org/programming/3/image.php
 
 You will submit the answer back to the image page (under POST), using the variables:
@@ -37,4 +41,5 @@ You have one second to analyse the image, and submit it back to the image page.
 Good luck!
 
 +++ Solution:
+
 See 3_prog.py
