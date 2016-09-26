@@ -1,6 +1,6 @@
 # Enigma_Programming
 
-Enigma Group :: Programming 1
+:: Enigma Group :: Programming 1
 
 Your objective is to send a POST header to this script. The POST content must contain your IP Address and your USERNAME. The variable names are ip & username!
 
@@ -12,8 +12,9 @@ What? You haven't posted it yet??? Get Coding!!!
 
   See 1_prog.py
 
+.
 
-Enigma Group :: Programming 2
+:: Enigma Group :: Programming 2
 
 Objective:
 You have 1 second to multiply this random number x by x and submit it
@@ -24,8 +25,9 @@ You have 1 second to multiply this random number x by x and submit it
 
   See 2_prog.py
 
+.
 
-Enigma Group :: Programming 3
+:: Enigma Group :: Programming 3
 
 Welcome. Your objective is to analyse the following [random] image, and report back the color of the image.
 
