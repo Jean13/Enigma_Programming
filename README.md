@@ -8,8 +8,10 @@ ONE MORE THING... MAKE SURE you send a cookie with the value mission=yes
 
 What? You haven't posted it yet??? Get Coding!!! 
 
+
 Solution:
 See 1_prog.py
+
 
 
 
@@ -21,6 +23,7 @@ You have 1 second to multiply this random number x by x and submit it
 Solution:
 Right-click -> View Page Source Code
 See 2_prog.py
+
 
 
 
@@ -37,6 +40,7 @@ The color variable is divided into 3 numbers. These 3 RGB numbers should be sepa
 You have one second to analyse the image, and submit it back to the image page.
 
 Good luck!
+
 
 Solution:
 See 3_prog.py
