@@ -10,7 +10,7 @@ What? You haven't posted it yet??? Get Coding!!!
 
 +++ Solution:
 
-See 1_prog.py
+  See 1_prog.py
 
 
 Enigma Group :: Programming 2
@@ -20,9 +20,9 @@ You have 1 second to multiply this random number x by x and submit it
 
 +++ Solution:
 
-Right-click -> View Page Source Code
+  Right-click -> View Page Source Code
 
-See 2_prog.py
+  See 2_prog.py
 
 
 Enigma Group :: Programming 3
@@ -42,4 +42,4 @@ Good luck!
 
 +++ Solution:
 
-See 3_prog.py
+  See 3_prog.py
