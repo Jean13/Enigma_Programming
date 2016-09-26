@@ -8,11 +8,8 @@ ONE MORE THING... MAKE SURE you send a cookie with the value mission=yes
 
 What? You haven't posted it yet??? Get Coding!!! 
 
-
-Solution:
++++ Solution:
 See 1_prog.py
-
-
 
 
 Enigma Group :: Programming 2
@@ -20,11 +17,9 @@ Enigma Group :: Programming 2
 Objective:
 You have 1 second to multiply this random number x by x and submit it
 
-Solution:
++++ Solution:
 Right-click -> View Page Source Code
 See 2_prog.py
-
-
 
 
 Enigma Group :: Programming 3
@@ -41,6 +36,5 @@ You have one second to analyse the image, and submit it back to the image page.
 
 Good luck!
 
-
-Solution:
++++ Solution:
 See 3_prog.py
